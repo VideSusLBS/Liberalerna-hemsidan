@@ -1,0 +1,20 @@
+body {
+
+    background-image: url(https://www.liberalerna.se/wp-content/uploads/simona-mohamsson-4-scaled.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: none;
+    font-family: Helvetica, Trashhand, "Press Start 2P";
+    color: rgb(0,105,180);
+
+    section {
+        background-color:rgb(0, 241, 255);
+        width:fit-content;
+        height:fit-content;
+    }
+    h1 {
+        background-color:rgb(0, 241, 255);
+        width:fit-content;
+        height:fit-content;
+    }
+}
