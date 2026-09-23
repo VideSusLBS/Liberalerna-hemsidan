@@ -17,4 +17,8 @@ body {
         width:fit-content;
         height:fit-content;
     }
+    #storroligtext {
+        font-weight: bold;
+        text-align: center;
+    }
 }
